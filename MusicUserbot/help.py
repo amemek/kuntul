@@ -16,7 +16,7 @@ async def help(client, m: Message):
 
 🛠 MENU BANTUAN MUSIC PLAYER
 
-⚡ PERINTAH UNTUK SEMUA ORANG
+⚡ PERINTAH UNTUK SEMUA ORANG STRESS
 • {HNDLR}play [judul lagu | link youtube | balas file audio] - untuk memutar lagu
 • {HNDLR}videoplay [judul video | link youtube | balas file video] - untuk memutar video
 • {HNDLR}playlist untuk melihat daftar putar
@@ -27,7 +27,7 @@ async def help(client, m: Message):
 • {HNDLR}help - untuk melihat daftar perintah
 • {HNDLR}join- untuk join | ke grup 
 
-⚡ PERINTAH UNTUK SEMUA ADMIN
+⚡ PERINTAH UNTUK SEMUA ADMIN STRESS 
 • {HNDLR}resume - untuk melanjutkan pemutaran lagu atau video
 • {HNDLR}pause - untuk untuk menjeda pemutaran lagu atau video
 • {HNDLR}skip - untuk melewati lagu atau video
